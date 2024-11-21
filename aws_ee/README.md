@@ -60,3 +60,5 @@ Storing signatures
 ```
 
 Boom, now you can sync your registry with Automation controller or another machine and use ansible-navigator!
+
+Chris was here!
